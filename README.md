@@ -86,7 +86,7 @@ class LegendaryDeveloper {
   <a href="mailto:ajay.patidar90989@gmail.com">
     <img src="https://img.shields.io/badge/📧_Send_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" alt="Gmail"/>
   </a>
-  <a href="https://github.com/ajay90989">
+  <a href="https://showcase-dazzle-craft.lovable.app/">
     <img src="https://img.shields.io/badge/🚀_View_Portfolio-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://linkedin.com/in/ajay-patidar">
