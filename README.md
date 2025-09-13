@@ -60,6 +60,18 @@ class LegendaryDeveloper {
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="250">
 
+
+## 🎮 CONTRIBUTION GAME
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="200">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajay90989&bg_color=0d1117&color=f85d7f&line=f8d866&point=ffffff&area=true&hide_border=false&border_color=30363d&radius=15" width="100%" alt="Activity Graph"/>
+</div>
+
+
 ### 🏆 LEGENDARY ACHIEVEMENTS
 <img src="https://img.shields.io/badge/🔥-MERN_Stack_Master-ff6b6b?style=for-the-badge" />
 <img src="https://img.shields.io/badge/🎮-Game_Dev_Explorer-4ecdc4?style=for-the-badge" />
