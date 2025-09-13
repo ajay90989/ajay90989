@@ -82,7 +82,11 @@ const currentStatus = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajay90989&color=blue&style=flat-square" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
+  
+  <img src="https://komarev.com/ghpvc/?username=ajay90989&color=blueviolet&style=for-the-badge" />
   
   **Thanks for visiting my profile! Let's build something amazing together 🚀**
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:1e6091&height=100&section=footer"/>
 </div>
