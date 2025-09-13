@@ -297,7 +297,8 @@ const missionLog = {
 **⚡ LET'S BUILD THE FUTURE TOGETHER! ⚡**
 
 </div>
-
+  
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,21,10&height=150&section=footer&animation=twinkling"/>
-</div>
+</div> 
+https://showcase-dazzle-craft.lovable.app/
