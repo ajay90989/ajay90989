@@ -61,15 +61,7 @@ class LegendaryDeveloper {
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="250">
 
 
-## 🎮 CONTRIBUTION GAME
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="200">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajay90989&bg_color=0d1117&color=f85d7f&line=f8d866&point=ffffff&area=true&hide_border=false&border_color=30363d&radius=15" width="100%" alt="Activity Graph"/>
-</div>
 
 
 ### 🏆 LEGENDARY ACHIEVEMENTS
@@ -102,6 +94,30 @@ class LegendaryDeveloper {
   </a>
   
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
+</div>
+## 🎮 GAMING ZONE
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="300">
+  
+  ### 🕹️ CURRENTLY PLAYING
+  **💻 Code Wars** • **🎯 Bug Hunting** • **🏆 Open Source Raids**
+  
+  ### 🎖️ FAVORITE GAME GENRES  
+  **🎮 Strategy** • **🔫 FPS** • **🧩 Puzzle** • **💻 Coding Challenges**
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
+  
+  <img src="https://komarev.com/ghpvc/?username=ajay90989&color=blueviolet&style=for-the-badge&label=PLAYER+VISITS" />
+  
+  ### 🎮 GG! THANKS FOR VISITING MY PROFILE! 🎮
+  **Ready to team up and build something epic? Let's code and conquer! 🚀⚔️**
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 </div>
 
 ## ⚔️ LEGENDARY WEAPON ARSENAL
