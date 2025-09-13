@@ -1,31 +1,29 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=AJAY%20PATIDAR&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20Expert%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=20"/>
-</div>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=👋+Hey+There!+I'm+Ajay;🚀+Full-Stack+Developer;⚡+MERN+Stack+Expert;🎮+Game+Dev+Explorer;🤖+AI+%26+Automation+Enthusiast" alt="Typing Animation"/>
-</h1>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b0c0b874.gif" width="400">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=AJAY%20PATIDAR&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=🚀%20Full-Stack%20Developer%20%7C%20MERN%20Expert%20%7C%20AI%20Enthusiast%20🚀&descAlignY=55&descSize=16"/>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajay90989&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/ajay90989?label=Followers&style=for-the-badge&color=36BCF7" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Focus-Full--Stack-36BCF7?style=for-the-badge" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Experience-1%2B%20Years-36BCF7?style=for-the-badge" alt="Experience"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=32&duration=2500&pause=800&color=667eea&center=true&vCenter=true&width=550&lines=👋+Hey%2C+I'm+Ajay+Patidar!;⚡+MERN+Stack+Developer;🎮+Game+Dev+%26+AI+Explorer;🚀+Building+Amazing+Apps;💡+Always+Learning+%26+Growing" alt="Typing Animation"/>
 </div>
 
-<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b0c0b874.gif" width="350">
+</p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">  
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="30">
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ajay90989&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/ajay90989?label=Followers&style=for-the-badge&color=764ba2" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Experience-1%2B%20Years-667eea?style=for-the-badge" alt="Experience"/>
+  <img src="https://img.shields.io/badge/Status-Available-00D4AA?style=for-the-badge" alt="Status"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="25">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25">  
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="25">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="25">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="25">
+</p>
 
 ## 🎮 PLAYER PROFILE CARD
 
